@@ -13,10 +13,8 @@ import "./App.css";
 const App = () => {
   return (
     <div className="App">
-      <div className="gradient_bg">
-        <a href="https://www.facebook.com">
-          <Navbar />
-        </a>
+      <div className="gradient__bg">
+        <Navbar />
         <Header />
       </div>
       <Brand />

@@ -8,8 +8,8 @@ body {
   background: var(--color-bg);
 }
 a {
-  text-decoration: none;
   color: unset;
+  text-decoration: none;
 }
 
 .gradient__bg {
